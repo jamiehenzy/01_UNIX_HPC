@@ -11,7 +11,6 @@ This course has been greatly extended and reworked into a book that has been pub
 [Amazon]: https://www.amazon.com/gp/product/0521169828?tag=keithbradnamc-20
 [online_stores]: http://rescuedbycode.com/about-the-book/#wheretobuy
 ---
-### Please note: You'll notice that some of the commands begin with a '$' sign. Do not include this in the command. It only represents your command line cursor.
 
 # Part 1: Unix - Learning the essentials
 
@@ -106,6 +105,8 @@ The first command reads as "change directory to the Desktop directory that is in
 ---
 
 ## U6: Root is the root of all evil
+
+### Please note: You'll notice that some of the commands begin with a '$' sign. Do not include this in the command. It only represents your command line cursor.
 
 In the previous example, we could have achieved the same result in three separate steps:
 
