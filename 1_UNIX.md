@@ -589,7 +589,7 @@ Now you have successfully created a configuration file (called "profile") which 
 #### Task 16
 Open a new terminal window or tab (to ensure that any aliases will not work) and then type the following (make sure you first change to the correct directory):
 
-	$ source profile
+	source profile
 
 Now try the `ls` command to see if the output looks different. Next, use `touch` to make a new file and then try deleting it with the `rm` command. Are the aliases working?
 
