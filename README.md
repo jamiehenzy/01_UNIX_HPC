@@ -4,11 +4,13 @@ For Tutorials 1 and 2, you only need to submit each Task, which are numbered and
 
 **How to save your terminal session?** On a Mac, just select from the menu at the top right of your screen "Shell" then "Export Text As ..." and give it a name (there's a similar option with Windows). It will be saved on your computer as a text file. You can open it with a plain text editor such as TextEdit (Mac) or Notepad (Windows), and edit it to make it "user-friendly". This mostly means that you should never submit something that requires me to scroll through a bunch of extraneous text and hunt and search for your tasks or answers. For example, let's say a task is to use the correct command to show the contents of your Download directory in long format, and you happen to have never cleared any files from your Download folder such that there are 163 lines showing the contents. Before submitting, you'll open your saved Terminal text files and delete all but the first few lines, adding a comment along the lines of "edited to save space". 
 
-**Submit your work** in your student directory on Explorer. Since you performed 1_UNIX.md locally, you'll need to transfer the text file of your work to your Explorer directory. Do this through [Open On Demand](https://ood.explorer.northeastern.edu/). In the Files menu choose Home Directory to display the contents of the directory. You can change the directory to your student directory to see its contents. Then use the Upload button to upload a file from your computer to whichever directory you have chosen.
+**Submit your work** If you saved your github directory to your home (~) folder on Explorer, move it into your student directory. Most of your work will be submitted to your Github page, but I need to be able to see your work on Explorer, as well.
+
+Since you performed 1_UNIX.md locally, you'll need to transfer the text file of your work to your Explorer directory. Do this by either method: 1) using the scp command and transfer node, or 2) through [Open On Demand](https://ood.explorer.northeastern.edu/). 
 
 To earn full credit:
-+ All files from assignment are in your student directory by due date
-+ Files are well named and well organized
++ All files from assignment are in your student directory and visible on Github by due date
++ Files and directories on Explorer are well named and well organized
 + README file describes contents and any other information useful to the "user"
 + Assignments are user-friendly: hash-commented and extraneous output deleted
 + Assignments are complete
