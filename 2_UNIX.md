@@ -5,7 +5,7 @@ There are three distinct directories associated with your account: home, scratch
 
 `/home/jhenzy/`
 `/scratch/jhenzy/`
-`/courses/BIOL3411.202630/students/jhenzy/`
+`/courses/BIOL2406.202710/students/jhenzy/`
 
 As you can see, your student directory is part of a larger **courses** directory. This directory also includes shared data files you can access (more on this below).
 
@@ -23,7 +23,7 @@ Wait a few seconds for a prompt to appear that has a c plus a number. The c indi
 ## U33: Familiarize yourself with the shared files
 Navigate to the course folders and use the `ls` command to explore the file structure:
 
-`cd /courses/BIOL3411.202630`
+`cd /courses/BIOL2406.202710`
 
 
 #### Task 1
@@ -162,7 +162,7 @@ Rather than showing you the lines that match a certain pattern, `grep` can also 
 	9785
 
 #### Task 3
-Count how many times each of the first three patterns from **Task U36.1** occurs in all of the sequence files (specifying `*.fasta` will allow you to specify all sequence files).
+Count how many times each of the first three patterns from **U37 Task 2** occurs in all of the sequence files (specifying `*.fasta` will allow you to specify all sequence files).
 
 ---
 
