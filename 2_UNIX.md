@@ -21,14 +21,15 @@ As mentioned previously, you are by default in your home directory. You also are
 Wait a few seconds for a prompt to appear that has a c plus a number. The c indicates you are on the computing node.
 
 ## U33: Familiarize yourself with the course files on Github
-Navigate to the course folders and use the `ls` command to explore the file structure:
-
-`cd /courses/BIOL2406.202710`
-
 
 #### Task 1
 
-For this tutorial you'll need to copy the following files into your student directory from my Github repo, UNIX_HPC. the You can copy each file individually, or try copying the Arabidopsis directory, using `cp -r <directoryname> <destination>`: 
+For this tutorial you'll need to copy the following files into your student directory from my Github repo, UNIX_HPC. To copy files from Github, click on the file name, then right-click on the "raw" button, near the upper right of the page. Choose "copy link address", then paste this after the command 'wget':
+
+`wget <copied_link>`
+
+The copied address should contain the word "raw" in it, or you copied the wrong link!
+
 + At_genes.gff
 + chr1.fasta
 + intron_IME_data.fasta
