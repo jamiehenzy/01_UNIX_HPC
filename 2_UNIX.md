@@ -20,7 +20,7 @@ As mentioned previously, you are by default in your home directory. You also are
 
 Wait a few seconds for a prompt to appear that has a c plus a number. The c indicates you are on the computing node.
 
-## U33: Familiarize yourself with the shared files
+## U33: Familiarize yourself with the course files on Github
 Navigate to the course folders and use the `ls` command to explore the file structure:
 
 `cd /courses/BIOL2406.202710`
