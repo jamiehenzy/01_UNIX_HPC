@@ -27,10 +27,8 @@ Navigate to the course folders and use the `ls` command to explore the file stru
 
 
 #### Task 1
-Use a command to show the names of the files in the `/courses/BIOL2406.202710/data` directory. You'll need to access some of these files in this Tutorial. 
-**Whenever you're asked to perform an exercise with a file from any of these folders, COPY it to your own directory first.**
 
-For this tutorial you'll need to **copy** the following files into your student directory from my Github repo, UNIX_HPC. the You can copy each file individually, or try copying the Arabidopsis directory, using `cp -r <directoryname> <destination>`: 
+For this tutorial you'll need to copy the following files into your student directory from my Github repo, UNIX_HPC. the You can copy each file individually, or try copying the Arabidopsis directory, using `cp -r <directoryname> <destination>`: 
 + At_genes.gff
 + chr1.fasta
 + intron_IME_data.fasta
